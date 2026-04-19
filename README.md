@@ -6,7 +6,7 @@
 
 Dig A [www.wildcodeschool.com](http://www.wildcodeschool.com/ "http://www.wildcodeschool.com")
     
-![[Capture d'écran 2026-04-19 112629.png]]
+![[Capture d'écran 2026-04-19 112629.png]](Quete-DNS-avec-dig-1.png)
 
 
 
@@ -26,7 +26,7 @@ group14.sites.hscoscdn10.net. 72 IN A 199.60.103.225
 Dig AAAA [odyssey](http://www.odyssey/ "http://www.odyssey").wildcodeschool.com
 
 
-![[Capture d'écran 2026-04-19 113554 1.png]]
+![[Capture d'écran 2026-04-19 113554 1.png]](Quete-DNS-avec-dig-2.png)
 
 
 
@@ -40,7 +40,7 @@ L’hébergeur d’odyssey est Google.
 
 Les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com 
 
-![[Capture d'écran 2026-04-19 115428.png]]
+![[Capture d'écran 2026-04-19 115428.png]](Quete-DNS-avec-dig-3.png)
 
 
 #### Les serveurs d’autorité sont :
@@ -54,7 +54,7 @@ Les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.co
 #### Le serveur primaire est : googlehosted.com
 
 
-![[Capture d'écran 2026-04-19 120759.png]]
+![[Capture d'écran 2026-04-19 120759.png]](Quete-DNS-avec-dig-4.png)
 
 
 
@@ -69,12 +69,12 @@ Les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.co
 
 dig @9.9.9.9 A www.wildcodeschool.com
 
-![[Pasted image 20260419123327.png]]
+![[Pasted image 20260419123327.png]](Quete-DNS-avec-dig-5.png)
 
 
 #### IPv6 de odyssey
 
-![[Pasted image 20260419123442.png]]
+![[Pasted image 20260419123442.png]](Quete-DNS-avec-dig-6.png)
 
 Le chemin du serveur récursif quad9 est bien précisé dans la "Statistic section".
 
@@ -84,16 +84,16 @@ Le chemin du serveur récursif quad9 est bien précisé dans la "Statistic secti
 
 dig -x 2a00:1450:4007:816::2013
 
-![[Pasted image 20260419124626.png]]
+![[Pasted image 20260419124626.png]](Quete-DNS-avec-dig-7.png)
 
 ensuite 
 
-![[Pasted image 20260419124602.png]]
+![[Pasted image 20260419124602.png]](Quete-DNS-avec-dig-8.png)
 
 
 En passant par le serveur récursif qad9 
 
-![[Pasted image 20260419124803.png]]
+![[Pasted image 20260419124803.png]](Quete-DNS-avec-dig-9.png)
 
 le serveur d'autorité est : 
 in
