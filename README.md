@@ -24,7 +24,7 @@ group14.sites.hscoscdn10.net. 72 IN A 199.60.103.225
 Dig AAAA [odyssey](http://www.odyssey/ "http://www.odyssey").wildcodeschool.com
 
 
-![[Quete-DNS-avec-dig-2.png]](Quete-DNS-avec-dig-2.png
+![[Quete-DNS-avec-dig-2.png]](Quete-DNS-avec-dig-2.png)
 
 
 odyssey.wildcodeschool.com. 300 IN CNAME ghs.googlehosted.com.
@@ -37,7 +37,7 @@ L’hébergeur d’odyssey est Google.
 
 Les noms des serveurs de noms faisant autorité sur le domaine wildcodeschool.com 
 
-![[Quete-DNS-avec-dig-3.png]](Quete-DNS-avec-dig-3.png
+![[Quete-DNS-avec-dig-3.png]](Quete-DNS-avec-dig-3.png)
 
 #### Les serveurs d’autorité sont :
 
